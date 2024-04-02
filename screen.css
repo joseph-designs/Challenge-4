@@ -5,6 +5,9 @@ body {
 }
 
 #HeaderPicture {
+    position: absolute;
+    top: 20px;
+    left: 10%;
     width: 80%;
     height: 250px;
     border-radius: 24 24 0 0;
@@ -12,6 +15,9 @@ body {
 }
 
 #ProfilePicture {
+    position: absolute;
+    top: 80px;
+    left: 80px;
     width: 25%;
     height: 25%;
     border-radius: 50%;
