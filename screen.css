@@ -36,5 +36,8 @@ p {
 }
 
 .LineBreak {
-
+    color: black;
+    margin: auto;
+    width: 90%;
+    height: 8px;
 }
