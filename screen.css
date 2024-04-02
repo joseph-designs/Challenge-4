@@ -4,6 +4,10 @@ body {
 
 }
 
+#Header{
+    position: relative;
+}
+
 #HeaderPicture {
     position: absolute;
     top: 20px;
