@@ -23,8 +23,8 @@ body {
     position: absolute;
     top: 180px;
     left: 150px;
-    width: 25%;
-    height: 25%;
+    width: 280px;
+    height: 280px;
     border-radius: 50%;
     border: 12px solid;
     border-color: white;
@@ -32,6 +32,20 @@ body {
     
 
 }
+
+#Name {
+
+
+
+}
+
+
+#Years {
+
+    
+
+}
+
 
 #TextBody {
     position: relative;
