@@ -26,20 +26,18 @@ body {
 #ProfilePicture {
     position: absolute;
     top: 180px;
-    left: 150px;
+    left: 120px;
     width: 280px;
     height: 280px;
     border-radius: 50%;
     border: 12px solid;
     border-color: white;
     float: left;
-    
-
 }
 
 #Name {
     position:absolute;
-    left: 470px
+    left: 440px
 
 
 }
