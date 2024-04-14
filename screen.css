@@ -54,6 +54,10 @@ body {
     top: 170px;
 }
 
+.Info {
+    margin-left: 40px;
+}
+
 h1 {
 
 }
@@ -63,7 +67,6 @@ h2 {
 }
 
 h3 {
-    margin-left:40px; 
 
 }
 
