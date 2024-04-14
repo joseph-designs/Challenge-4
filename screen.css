@@ -74,9 +74,8 @@ p {
 }
 
 .LineBreak {
-    color: black;
     margin: auto;
     width: 98%;
     height: 4px;
-    background-color: black
+    background-color: #F26B4D;
 }
