@@ -1,17 +1,17 @@
 /* Add screen styles below */
 
 body {
-
+    margin: 60px
 }
 
 #Header{
-    margin: 60px
+
 }
 
 #HeaderPicture {
     top: 20px;
     left: 10%;
-    width: 80%;
+    width: 100%;
     height: 250px;
     border-radius: 50px 50px 0px 0px;
     object-fit: cover;
@@ -34,14 +34,16 @@ body {
 }
 
 #Name {
-
+    position:absolute;
+    left: 470px
 
 
 }
 
 
 #Years {
-
+    float: right;
+    margin-right: 60px;
     
 
 }
@@ -49,7 +51,7 @@ body {
 
 #TextBody {
     position: relative;
-    top: 20px;
+    top: 170px;
 }
 
 h1 {
@@ -61,17 +63,19 @@ h2 {
 }
 
 h3 {
+    margin-left:40px; 
 
 }
 
 p {
-
+    margin-left:60px;
 
 }
 
 .LineBreak {
     color: black;
     margin: auto;
-    width: 90%;
-    height: 8px;
+    width: 98%;
+    height: 4px;
+    background-color: black
 }
