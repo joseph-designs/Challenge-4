@@ -1,7 +1,7 @@
 /* Add screen styles below */
 
 body {
-    margin: 60px
+    margin: 60px;
 }
 
 #Header{
@@ -50,6 +50,7 @@ body {
 #TextBody {
     position: relative;
     top: 170px;
+    margin-bottom: 120px;
 }
 
 .Info {
@@ -70,6 +71,7 @@ h3 {
 
 p {
     margin-left:60px;
+    margin-bottom:40px;
 
 }
 
