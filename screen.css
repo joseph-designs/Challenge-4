@@ -1,5 +1,4 @@
 /* Add screen styles below */
-/* Add screen styles below */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
@@ -57,7 +56,7 @@ body {
 }
 
 .Info {
-    margin-left: 40px;
+    margin-left: 20px;
 }
 
 h1 {
